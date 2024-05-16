@@ -1,6 +1,6 @@
 # Algoritmos e Grafos
 
-Este repositório contém implementações de algoritmos relacionados a grafos em diversas linguagens de programação.
+Este repositório contém implementações de algoritmos relacionados a grafos em linguagen Python.
 
 ## Algoritmos Implementados
 
